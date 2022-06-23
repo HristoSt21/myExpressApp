@@ -1,0 +1,8 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/548d09ff-0cef-4582-9e35-834f02023719/microsoft.web/sites/subscriptions/548d09ff-0cef-4582-9e35-834f02023719/resourceGroups/testwebapp-rg/providers/Microsoft.Web/sites/mywebapp-hs",
+    "appService.deploySubpath": ".",
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ]
+}
