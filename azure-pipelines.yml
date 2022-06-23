@@ -3,7 +3,9 @@
 # Add steps that analyze code, save build artifacts, deploy, and more:
 # https://docs.microsoft.com/azure/devops/pipelines/languages/javascript
 
-# Additional comment
+# Additional comment 1
+# Additional comment 2
+
 
 trigger:
 - master
